@@ -8,3 +8,4 @@
   ![1 zrzut ekranu](screenshots/Zrzut1.png)
 * Liną z hakiem można poruszać przy pomocy klawiszy `WASD` a elementy z kontenerów mocować do niej przy użyciu przycisku `zamocuj/odłącz`
   - UWAGA: odłączenie elementu od liny w miejscu innym niż pezpośrednio nad podstawą/elementem wieży powoduje jego "spadnięcie poza kadr"
+ ![2 zrzut ekranu](screenshots/Zrzut2.png)

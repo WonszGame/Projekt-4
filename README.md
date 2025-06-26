@@ -9,7 +9,7 @@
 * Liną z hakiem można poruszać przy pomocy klawiszy `WASD` a elementy z kontenerów mocować do niej przy użyciu przycisku `zamocuj/odłącz`.
 ![2 zrzut ekranu](screenshots/Zrzut2.png)
   - **UWAGA:** Odłączenie elementu od liny w miejscu innym niż pezpośrednio nad podstawą/elementem wieży powoduje jego "spadnięcie poza kadr".
-* Przycisk `resetuj kontenery` generuje nowe loseowe elementy na kontenerach.
+* Przycisk `resetuj kontenery` generuje nowe losowe elementy na kontenerach.
 ![3 zrzut ekranu](screenshots/Zrzut3.png)
 * Przycisk `resetuj wszystko` przywraca program do stanu aktwacji, z nowymi losowymi obiektami na kontenerach.
   

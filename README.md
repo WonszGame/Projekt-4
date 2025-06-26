@@ -11,7 +11,7 @@
   - **UWAGA:** Odłączenie elementu od liny w miejscu innym niż pezpośrednio nad podstawą/elementem wieży powoduje jego "spadnięcie poza kadr".
 * Przycisk `resetuj kontenery` generuje nowe losowe elementy na kontenerach.
 ![3 zrzut ekranu](screenshots/Zrzut3.png)
-* Przycisk `resetuj wszystko` przywraca program do stanu aktwacji, z nowymi losowymi obiektami na kontenerach.
+* Przycisk `resetuj wszystko` przywraca program do stanu aktywacji, z nowymi losowymi obiektami na kontenerach.
   
 Poniższe funkcjonalności spełniają kryteria 4.1-4.3:
 * Pierwszy po uruchomieniu/resecie zamocowany do haka obiekt decyduje o typie obiektu, który może podnieść dźwig i w standardowym trybie działania przy próbie podniesienia obiektu o innym kształcie pojawi się komunikat błędu.

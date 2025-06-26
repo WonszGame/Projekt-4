@@ -27,7 +27,7 @@ Poniższe funkcjonalności spełniają kryteria 4.1-4.3:
 Kryteria 4.5 oraz 4.6 są spełniane odpowiednio dzięki przyciskom `Autowieża 1` i `Autowieża 2`.
 * Po wciśnięciu oba przyciski powodują reset, oraz generację konkretnych, wcześniej ustalonych obiektów.
 ![8 zrzut ekranu](screenshots/Zrzut8.png)
- - **UWAGA:** Wciskanie przycisków `WASD` podczas automatycznej konstrukcji wieży prowadzi do niepoprawnego wykonania programu.
+  - **UWAGA:** Wciskanie przycisków `WASD` podczas automatycznej konstrukcji wieży prowadzi do niepoprawnego wykonania programu.
 * Przycisk `Autowieża 1` ruch po ruchu konstruuje wieżę w kolejnościk kwadrat->trójkąt->koło.
 ![9 zrzut ekranu](screenshots/Zrzut9.png)
 * Przycisk `Autowieża 2` ruch po ruchu konstruuje wieżę w kolejności koło->kwadrat->trójkąt.

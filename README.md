@@ -8,7 +8,7 @@
   ![1 zrzut ekranu](screenshots/Zrzut1.png)
 * Liną z hakiem można poruszać przy pomocy klawiszy `WASD` a elementy z kontenerów mocować do niej przy użyciu przycisku `zamocuj/odłącz`.
 ![2 zrzut ekranu](screenshots/Zrzut2.png)
-  - UWAGA: Odłączenie elementu od liny w miejscu innym niż pezpośrednio nad podstawą/elementem wieży powoduje jego "spadnięcie poza kadr".
+  - **UWAGA:** Odłączenie elementu od liny w miejscu innym niż pezpośrednio nad podstawą/elementem wieży powoduje jego "spadnięcie poza kadr".
 * Przycisk `resetuj kontenery` generuje nowe loseowe elementy na kontenerach.
 ![3 zrzut ekranu](screenshots/Zrzut3.png)
 * Przycisk `resetuj wszystko` przywraca program do stanu aktwacji, z nowymi losowymi obiektami na kontenerach.
@@ -21,7 +21,10 @@ Poniższe funkcjonalności spełniają kryteria 4.1-4.3:
 * W przypadku próby położenia na wieży kolejnego elementu pojawi się komunikat błędu.
 ![6 zrzut ekranu](screenshots/Zrzut6.png)
 
-
-
 * Obiekty mogą przyjmować wagę od 0 do 6. Dźwig jest w stanie podnieść tylko elementy o wadze mniejszej niż 6, spełniając tym samym kryterium 4.4. W przypadku próby podniesienia elemetu o wadze 6 pojawia się komunikat błędu.
 ![7 zrzut ekranu](screenshots/Zrzut7.png)
+
+Kryteria 4.5 oraz 4.6 są spełniane odpowiednio dzięki przyciskom `Autowieża 1` i `Autowieża 2`.
+* Po wciśnięciu oba przyciski powodują reset, oraz generację konkretnych, wcześniej ustalonych obiektów.
+![8 zrzut ekranu](screenshots/Zrzut8.png)
+* Przycisk `Autowieża 1` 

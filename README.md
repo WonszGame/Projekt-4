@@ -19,7 +19,9 @@ Poniższe funkcjonalności spełniają kryteria 4.1-4.3:
 * Po ułożeniu na podstawie wieży z trzech elementów pojawi się komunikat:
 ![5 zrzut ekranu](screenshots/Zrzut5.png)
 * W przypadku próby położenia na wieży kolejnego elementu pojawi się komunikat błędu.
-* ![6 zrzut ekranu](screenshots/Zrzut6.png)
+![6 zrzut ekranu](screenshots/Zrzut6.png)
+
+
 
 * Obiekty mogą przyjmować wagę od 0 do 6. Dźwig jest w stanie podnieść tylko elementy o wadze mniejszej niż 6, spełniając tym samym kryterium 4.4. W przypadku próby podniesienia elemetu o wadze 6 pojawia się komunikat błędu.
 ![7 zrzut ekranu](screenshots/Zrzut7.png)
